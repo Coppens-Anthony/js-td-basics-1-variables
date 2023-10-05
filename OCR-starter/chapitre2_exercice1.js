@@ -13,3 +13,11 @@
 - Devinez les valeurs à présent contenues dans chacune de ces 7 variables ;
 - Affichez les valeurs des 7 variables dans la console
 */
+const a = 2;
+const b = 8;
+const c = a+b*b;
+const d = a*b+b;
+const e = a * (b + b);
+const f = a*b/a;
+const g = b/a*a;
+console.log(a, a-1, a+1, b, b+2, c, d, e, f, g);
